@@ -4,7 +4,7 @@ Repositorio con los cuadernos utilizados en el stream "Estados entrelazados en Q
 Respectivamente presentados por:
 - **Qiskit**: Victor Onofre
 - **Yao**: Luis Felipe Flores
-- **Q#**: Alberto Romo
+- **Q#**: Alberto Maldonado Romo
 
 # ¿Cómo ejecutar los archivos dentro de este repositorio?
 
